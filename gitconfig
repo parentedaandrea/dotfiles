@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = andrea.pparente@gmail.com
+	name = Andrea Parente
